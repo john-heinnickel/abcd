@@ -1,0 +1,9 @@
+sync:
+  services:
+    my-trial-v2:
+      inst02:
+        branch: bar
+        spec: dev-svc/service-sync.yaml
+      inst01:
+        branch: bar
+        spec: uat-svc/service-sync.yaml
