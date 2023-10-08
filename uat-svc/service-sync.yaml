@@ -1,0 +1,4 @@
+proton: ServiceSpec
+instances:
+  - name: inst01
+    environment: ecs-trial-v02
