@@ -1,3 +1,3 @@
-FROM ubuntu:22.04
+FROM public.ecr.aws/nginx/nginx:1.21
 
-ENTRYPOINT "/usr/bin/bash"
+# ENTRYPOINT "/usr/bin/bash"
